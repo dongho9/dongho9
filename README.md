@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hi!%20I'm%20DongHo!)
+  ![header](https://capsule-render.vercel.app/api?type=Wave&text=Hi!%20I'm%20DongHo!)
 
   <h3> 💻 Hi There 💻 </h3>
 
