@@ -4,7 +4,7 @@
   <h2> 💻 Hi There 💻 </h2>
 
   <h3>👋 About Me</h3>
-  <p>안녕하세요! 저는 웹 개발에 열정을 가지고 있는 개발자 동호입니다. HTML, CSS, JavaScript를 사용해 웹사이트를 만들고 있으며, 새로운 기술을 배우는 것을 좋아합니다. </p>
+  <p>안녕하세요! 저는 웹 개발에 열정을 가지고 있는 개발자 동호입니다. HTML, CSS, JavaScript를 활용한 웹 개발에 주력하고 있으며, 항상 발전하는 개발자가 되기 위해 노력하고 있습니다. 🚀</p>
 
   <h3>🛠️ Tech Stack</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />&nbsp; 
